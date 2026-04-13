@@ -71,10 +71,15 @@ export default function Footer() {
           <h4 className="font-inter text-[13px] font-bold text-white mb-3.5">
             Contacto
           </h4>
-          <div className="flex items-center gap-2 font-inter text-[14px] text-green mb-1.5">
+          <a
+            href="https://wa.me/5218134304954"
+            target="_blank"
+            rel="noreferrer"
+            className="flex items-center gap-2 font-inter text-[14px] text-green mb-1.5 no-underline hover:opacity-80 transition-opacity"
+          >
             <WaIcon />
-            +52 55 1234 5678
-          </div>
+            +52 181 343 04954
+          </a>
           <p className="font-inter text-[13px] text-white/50">
             Lunes a Viernes: 9am - 7pm
           </p>
