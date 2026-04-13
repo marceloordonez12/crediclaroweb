@@ -23,7 +23,7 @@ export default function Advisory() {
     const message = encodeURIComponent(
       `Hola! Soy ${nombre}, mi número es ${whatsapp} y necesito asesoría para un crédito de ${monto}.`
     );
-    window.open(`https://wa.me/5215512345678?text=${message}`, '_blank');
+    window.open(`https://wa.me/5218134304954?text=${message}`, '_blank');
   };
 
   return (
