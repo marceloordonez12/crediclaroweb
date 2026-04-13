@@ -18,7 +18,7 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#" className="flex items-center gap-2 no-underline flex-shrink-0">
           <Image
-            src="https://api.moda.app/api/v2/images/ref/7c829a55-5356-42f6-910f-6ff1728ed06b?v=eb1f8a9f"
+            src="/logo.png"
             alt="CrediClaro logo"
             width={48}
             height={48}
