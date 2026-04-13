@@ -78,7 +78,7 @@ export default function Footer() {
             className="flex items-center gap-2 font-inter text-[14px] text-green mb-1.5 no-underline hover:opacity-80 transition-opacity"
           >
             <WaIcon />
-            +52 181 343 04954
+            +52 81 3430 4954
           </a>
           <p className="font-inter text-[13px] text-white/50">
             Lunes a Viernes: 9am - 7pm
