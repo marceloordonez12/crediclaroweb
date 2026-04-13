@@ -15,7 +15,7 @@ export default function Footer() {
         <div>
           <div className="flex items-center gap-2 mb-3">
             <Image
-              src="https://api.moda.app/api/v2/images/ref/afbd9c73-d6a4-4fd9-a2da-47290d020078?v=6a5270ba"
+              src="/logo.png"
               alt="CrediClaro"
               width={49}
               height={36}
