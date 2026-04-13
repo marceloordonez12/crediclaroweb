@@ -93,9 +93,39 @@ export default function Hero() {
                 onChange={(e) => setPlazo(e.target.value)}
                 className="w-full bg-transparent border-0 outline-none font-inter text-[14px] text-[#475569] cursor-pointer appearance-none"
               >
+                <option value="">Selecciona un estado</option>
+                <option value="Aguascalientes">Aguascalientes</option>
+                <option value="Baja California">Baja California</option>
+                <option value="Baja California Sur">Baja California Sur</option>
+                <option value="Campeche">Campeche</option>
+                <option value="Chiapas">Chiapas</option>
+                <option value="Chihuahua">Chihuahua</option>
                 <option value="Ciudad de Mexico">Ciudad de Mexico</option>
-                <option value="Guadalajara">Guadalajara</option>
-                <option value="Monterrey">Monterrey</option>
+                <option value="Coahuila">Coahuila</option>
+                <option value="Colima">Colima</option>
+                <option value="Durango">Durango</option>
+                <option value="Estado de Mexico">Estado de Mexico</option>
+                <option value="Guanajuato">Guanajuato</option>
+                <option value="Guerrero">Guerrero</option>
+                <option value="Hidalgo">Hidalgo</option>
+                <option value="Jalisco">Jalisco</option>
+                <option value="Michoacan">Michoacan</option>
+                <option value="Morelos">Morelos</option>
+                <option value="Nayarit">Nayarit</option>
+                <option value="Nuevo Leon">Nuevo Leon</option>
+                <option value="Oaxaca">Oaxaca</option>
+                <option value="Puebla">Puebla</option>
+                <option value="Queretaro">Queretaro</option>
+                <option value="Quintana Roo">Quintana Roo</option>
+                <option value="San Luis Potosi">San Luis Potosi</option>
+                <option value="Sinaloa">Sinaloa</option>
+                <option value="Sonora">Sonora</option>
+                <option value="Tabasco">Tabasco</option>
+                <option value="Tamaulipas">Tamaulipas</option>
+                <option value="Tlaxcala">Tlaxcala</option>
+                <option value="Veracruz">Veracruz</option>
+                <option value="Yucatan">Yucatan</option>
+                <option value="Zacatecas">Zacatecas</option>
               </select>
             </div>
 
