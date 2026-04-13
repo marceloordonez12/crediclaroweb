@@ -48,7 +48,7 @@ export default function Navbar() {
 
         {/* CTA button */}
         <button
-          onClick={() => window.open('https://wa.me/5215512345678', '_blank')}
+          onClick={() => window.open('https://wa.me/5218134304954', '_blank')}
           className="hidden md:flex items-center gap-2 bg-green hover:bg-green-dark text-white border-0 rounded-3xl h-12 px-6 font-inter text-[15px] font-semibold cursor-pointer whitespace-nowrap transition-colors flex-shrink-0"
         >
           <WaIcon size={20} color="white" />
@@ -75,7 +75,7 @@ export default function Navbar() {
           <a href="#" className="font-inter text-[15px] font-medium text-navy hover:text-green">Como Funciona</a>
           <a href="#" className="font-inter text-[15px] font-medium text-navy hover:text-green">Nosotros</a>
           <button
-            onClick={() => window.open('https://wa.me/5215512345678', '_blank')}
+            onClick={() => window.open('https://wa.me/5218134304954', '_blank')}
             className="flex items-center justify-center gap-2 bg-green hover:bg-green-dark text-white border-0 rounded-3xl h-12 px-6 font-inter text-[15px] font-semibold cursor-pointer transition-colors"
           >
             <WaIcon size={20} color="white" />

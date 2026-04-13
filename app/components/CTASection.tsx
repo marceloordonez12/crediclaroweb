@@ -51,7 +51,7 @@ export default function CTASection() {
         <button
           onClick={() =>
             window.open(
-              'https://wa.me/5215512345678?text=Hola%2C%20quiero%20asesoría%20para%20encontrar%20un%20crédito',
+              'https://wa.me/5218134304954?text=Hola%2C%20quiero%20asesoría%20para%20encontrar%20un%20crédito',
               '_blank'
             )
           }

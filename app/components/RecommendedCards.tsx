@@ -128,7 +128,7 @@ export default function RecommendedCards() {
 
               {/* CTA button */}
               <button
-                onClick={() => window.open('https://wa.me/5215512345678?text=Hola%2C%20me%20interesa%20el%20Prestamo%20Personal%20Plus', '_blank')}
+                onClick={() => window.open('https://wa.me/5218134304954?text=Hola%2C%20me%20interesa%20el%20Prestamo%20Personal%20Plus', '_blank')}
                 className="flex items-center justify-center gap-2.5 w-full bg-green hover:bg-green-dark border-0 rounded-xl h-[51px] text-white font-inter text-[16px] font-bold cursor-pointer transition-colors"
               >
                 <WaIcon size={22} />
@@ -178,7 +178,7 @@ export default function RecommendedCards() {
                 <button
                   onClick={() =>
                     window.open(
-                      `https://wa.me/5215512345678?text=Hola%2C%20me%20interesa%20${encodeURIComponent(product.name)}`,
+                      `https://wa.me/5218134304954?text=Hola%2C%20me%20interesa%20${encodeURIComponent(product.name)}`,
                       '_blank'
                     )
                   }
